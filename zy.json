@@ -1,10 +1,4 @@
-"spider":"https://hub.fastgit.xyz/kof319/OneClickRun/tree/master/MeowXB/XBiubiuLA3.jar",
-
-
-# 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9odWIuZmFzdGdpdC54eXovWXVhbkhzaW5nL2ZyZWVkL3Jhdy9tYXN0ZXIvdHYvbGl2ZS50eHQ="]}]}],
-
-
+"spider":"https://hub.fastgit.xyz/kof319/OneClickRun/tree/master/MeowXB/XBiubiuLA3.jar"
 "sites":[
 {"key":"csp_xpath_独播库","name":"独播库(XPF)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://hub.fastgit.xyz/YuanHsing/OneClickRun/raw/master/MeowXP/duboku.json"},
 {"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
